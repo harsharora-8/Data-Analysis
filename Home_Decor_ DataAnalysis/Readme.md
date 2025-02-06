@@ -49,12 +49,9 @@ The correlation heatmap helps visualize relationships between numerical features
 This plot shows what discounts were offered by different brands in different seasons.
 ![image](https://github.com/user-attachments/assets/86f1cbbf-6520-4967-badc-93812879bcf1)
 
-![Sales Trend](results/sales_trend.png)
 
 #### 🤖 Revenue of Different Materials for Each Brand
 ![image](https://github.com/user-attachments/assets/0f2e0f7b-3b40-40a6-b7f6-00087e812207)
-
-![Model Performance](results/model_performance.png)
 
 #### Insights into sales trends, discount strategies, and seasonal revenue.
 - A predictive model to estimate future revenue.
